@@ -1,2 +1,2 @@
-# hi
-ESP32
+# Embedded Linux
+Raspberry pi
